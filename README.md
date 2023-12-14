@@ -4,10 +4,14 @@
 Code for the Numerical Linear Algebra project on Graphs
 
 This repository consists of 3 ipython notebooks for:-
-1) Laplacian Eigenmaps  :
-2) Randomwalks          :
-3) Cora_Dataset_GCNN    :
+1) Laplacian Eigenmaps  
+2) Randomwalks          
+3) Cora_Dataset_GCNN    
 
+# Instructions to Run the Code on Colab
+1. Open notebook in Colab, Click on the .ipynb file and then Open in Colab
+2. Change runtime type to T4 GPU, Runtime => Hardware Accelerator => T4 GPU
+3. Run all the cells, Runtime => Run all
 
 ### Results:
 
