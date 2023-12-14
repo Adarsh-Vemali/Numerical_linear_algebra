@@ -4,9 +4,9 @@
 Code for the Numerical Linear Algebra project on Graphs
 
 This repository consists of 3 ipython notebooks for:-
-1) Laplacian Eigenmaps  
-2) Randomwalks          
-3) Cora_Dataset_GCNN    
+1) Laplacian Eigenmaps : Cora_Eigenmap.ipynb
+2) Randomwalks : Cora_Deepwalk.ipynb         
+3) SOTA GCNN Approach : SOTA_GCN_Approach.ipynb  
 
 # Instructions to Run the Code on Colab
 1. Open notebook in Colab, Click on the .ipynb file and then Open in Colab
