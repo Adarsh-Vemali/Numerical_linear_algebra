@@ -1,5 +1,6 @@
 # Node Representation Learning in Graphs
 ## Course: DSC 210 FA’23 Numerical Linear Algebra
+## Instructor: Dr. Tsui-wei Weng
 Code for the Numerical Linear Algebra project on Graphs
 
 This repository consists of 3 ipython notebooks for:-
