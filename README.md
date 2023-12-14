@@ -18,4 +18,8 @@ Following is the visualization for the embeddings that were generated for variou
 
            Fig. 3.5.1. NLA Approach                   Fig. 3.5.2. SOTA Approach
 
-
+| Model              | Training time           | Inference time (/ sample) | Accuracy (%) | F1-Score |
+|--------------------|-------------------------|---------------------------|--------------|----------|
+| Laplacian Eigenmap | 60s (59.8 NLA + 0.2 ML) | 7.4 µs                    | 77.3         | 0.77     |
+| Deep Walk          | 19s (18 NLA + 1 ML)     | 7.4 µs                    | 70.0         | 0.69     |
+| GCN                | 13.48s                  | 40 µs                     | 81.8         | 0.82     |
