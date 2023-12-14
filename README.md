@@ -4,10 +4,11 @@
 Code for the Numerical Linear Algebra project on Graphs
 
 This repository consists of 3 ipython notebooks for:-
-1) Laplacian Eigenmaps : Cora_Eigenmap.ipynb
-2) Randomwalks : Cora_Deepwalk.ipynb         
-3) SOTA GCNN Approach : SOTA_GCN_Approach.ipynb  
+1) Laplacian Eigenmaps  : Cora_Eigenmap.ipynb
+2) Randomwalks          : Cora_Deepwalk.ipynb         
+3) SOTA GCNN Approach   : SOTA_GCN_Approach.ipynb  
 
+The file _requirements.txt_ contains the dependencies required to run the code (The code itself takes care of installing and importing these dependencies).
 # Instructions to Run the Code on Colab
 1. Open notebook in Colab, Click on the .ipynb file and then Open in Colab
 2. Change runtime type to T4 GPU, Runtime => Hardware Accelerator => T4 GPU
