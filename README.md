@@ -14,6 +14,6 @@ Following is the visualization for the embeddings that were generated for variou
 <img width="350" alt="Untitled" src="https://github.com/Adarsh-Vemali/Numerical_linear_algebra/assets/68332419/40f90667-2266-4237-ac70-8d7de442381b">
 <img width="350" alt="Untitled" src="https://github.com/Adarsh-Vemali/Numerical_linear_algebra/assets/68332419/af28fa1f-de82-44bb-bb6c-51a9143004f7">
 
-    Fig. 3.5.1. NLA Approach      Fig. 3.5.2. SOTA Approach
+           Fig. 3.5.1. NLA Approach                   Fig. 3.5.2. SOTA Approach
 
 
